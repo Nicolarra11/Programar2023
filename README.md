@@ -1,2 +1,2 @@
 # Programar2023
-curso SeProgramar2023
+Curso SeProgramar2023
